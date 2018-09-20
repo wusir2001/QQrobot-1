@@ -30,7 +30,7 @@ Contribution Guide（贡献文档）
 
 ```
 # Add a new remote, you can customize its name
-git remote add pr https://github.com/Yinzo/SmartQQBot.git
+git remote add pr https://github.com/17192175113/QQrobot.git
 
 # Fetch the newest remote to FETCH_HEAD
 git fetch pr master
