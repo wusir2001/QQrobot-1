@@ -29,21 +29,9 @@ Contribution Guide（贡献文档）
 具体的操作，可以如下：
 
 ```
-# Add a new remote, you can customize its name
 git remote add pr https://github.com/17192175113/QQrobot.git
-
-# Fetch the newest remote to FETCH_HEAD
 git fetch pr master
-
-# Rebase your branch based on master
 git checkout your-feature-branch
-
-# In this step, if conflicts detected, you should resolve it 
-# and push to your remote repo, then create your PR.
 git rebase FETCH_HEAD
-
-# Push your changes to your forked repo
 git push origin your-feature-branch
-
-# Now you can create a PR that has no conflicts with master and is fast-forward.
 ```
