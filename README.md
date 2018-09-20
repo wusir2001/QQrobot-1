@@ -81,8 +81,5 @@ SmartQQBot
 + 支持每个插件的单独配置文件
 
 ## Contributors
-+ [Yinzo](https://github.com/Yinzo)
-+ [Cheng Gu](https://github.com/gucheen)
-+ [winkidney](https://github.com/winkidney)
-+ [eastpiger](https://github.com/eastpiger)
++ [zengweikang](https://github.com/17192175113)
 
