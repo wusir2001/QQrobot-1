@@ -1,3 +1,4 @@
+[![codebeat badge](https://codebeat.co/badges/c5e21e46-d384-4e1b-a819-b2b356cfd740)](https://codebeat.co/projects/github-com-17192175113-qqrobot-master)
 SmartQQBot
 =========
 
